@@ -1,0 +1,12 @@
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\bin\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.deps.json
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\bin\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.dll
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\bin\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.pdb
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\bin\Debug\netcoreapp2.1\Gorkem.Core.dll
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\bin\Debug\netcoreapp2.1\Gorkem.Core.pdb
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\obj\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\obj\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\obj\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\obj\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.AssemblyInfo.cs
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\obj\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.csproj.CopyComplete
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\obj\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.dll
+C:\Users\LST\source\repos\Gorkem\Gorkem.Northwind.Entities\obj\Debug\netcoreapp2.1\Gorkem.Northwind.Entities.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gorkem.Core\Gorkem.Core.csproj" />
+    <ProjectReference Include="..\Gorkem.Northwind.DataAccess\Gorkem.Northwind.DataAccess.csproj" />
+    <ProjectReference Include="..\Gorkem.Northwind.Entities\Gorkem.Northwind.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\bin\Debug\netcoreapp2.1\Gorkem.Core.deps.json
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\bin\Debug\netcoreapp2.1\Gorkem.Core.dll
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\obj\Debug\netcoreapp2.1\Gorkem.Core.csprojAssemblyReference.cache
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\obj\Debug\netcoreapp2.1\Gorkem.Core.csproj.CoreCompileInputs.cache
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\obj\Debug\netcoreapp2.1\Gorkem.Core.AssemblyInfoInputs.cache
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\obj\Debug\netcoreapp2.1\Gorkem.Core.AssemblyInfo.cs
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\bin\Debug\netcoreapp2.1\Gorkem.Core.pdb
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\obj\Debug\netcoreapp2.1\Gorkem.Core.dll
+C:\Users\LST\source\repos\Gorkem\Gorkem.Core\obj\Debug\netcoreapp2.1\Gorkem.Core.pdb
